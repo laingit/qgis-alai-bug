@@ -21,3 +21,4 @@ Here the **BLACK** LINE (ok)
 Here the **RED** LINE (ERROR)
 ![ERROR](https://github.com/laingit/qgis-alai-bug/blob/master/ERROR.PNG).
 
+![qgis](https://github.com/laingit/qgis-alai-bug/blob/master/qgis.PNG).
