@@ -1,3 +1,7 @@
+### Bug report #14594
+
+qgis 2.8.8-Wien
+
 Symbology Maker line error when pen width less 0.265 mm (es. 0.25 mm)
 
 1. bug.qgs (Qgis project)
